@@ -2,5 +2,6 @@
     "private": true,
     "dependencies": {
         "moment": "^2.10.2"
-    }
+    },
+    "name": "@types/chart.js_with_annotation"
 }
