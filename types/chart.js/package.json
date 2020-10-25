@@ -3,5 +3,6 @@
     "dependencies": {
         "moment": "^2.10.2"
     },
-    "name": "@types/chart.js_with_annotation"
+    "name": "@types/chart.js_with_annotation",
+    "version": "1.0.0"
 }
